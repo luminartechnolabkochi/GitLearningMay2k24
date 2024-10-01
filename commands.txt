@@ -11,3 +11,7 @@
 >git commit -m "commit message"
 
 >git status [list untracked files]
+
+>git remote add remote_name remote_path
+
+>git push remote_name branch
