@@ -2,3 +2,6 @@
 
 >git config --global user.email "examplae@gmail.com" [to set email id]
 
+>git config --list [list details]
+
+>git init [initialize git repository]
