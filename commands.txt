@@ -5,3 +5,5 @@
 >git config --list [list details]
 
 >git init [initialize git repository]
+
+>git add -A [add untracked files to staging area]
