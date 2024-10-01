@@ -9,3 +9,5 @@
 >git add -A [add untracked files to staging area]
 
 >git commit -m "commit message"
+
+>git status [list untracked files]
